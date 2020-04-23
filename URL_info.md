@@ -22,6 +22,7 @@ http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereI
 5. ?key1=value1&key2=value2
 - 웹서버에 제공되는 추가 매개변수.
 - &기호로 구분된 키/값 쌍의 목록임. 웹서버는 이를 이용하여 리소스를 반환하기 전에 추가작업 수행가능.
+- (물음표 뒷부분을 쿼리문자열 이라고도 하는 것 같다..)
 
 6. #SomewhereInTheDocument
 - 리소스 자체의 다른 부분에 대한 앵커(책갈피).
