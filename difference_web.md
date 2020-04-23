@@ -26,5 +26,12 @@ ex> developer.mozilla.org -> 웹사이트
 - 자원은 보통 HTML문서지만 PDF나 이미지 또는 다른형태일 수 있다.
 - 자원의 주소는 URI에 의해 정해진다. (Uniform Resource Identifier)
 
+- (URI > URL)
+-http://endic.naver.com/endic.nhn?docid=1232950
+- URL은 endic.nhn의 위치를 표기한 http://endic.naver.com/endic.nhn 까지임.
+- 내가 원하는 정보에 도달 하기위해서는 ?docid=1232950라는 식별자(Identifier)가 필요한 것이다.
+- 결국 위의 http://endic.naver.com/endic.nhn?docid=1232950 주소는 URI이긴 하지만 URL은 아님.
+
+cf. https://lambdaexp.tistory.com/39 [프로그래머 인생길..]
   
   
