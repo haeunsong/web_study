@@ -23,4 +23,4 @@ Resource Server는 client에게 일련의 암호화된 코드를 제공하고 �
 Client Id와 Client Secret을 함께 보내, 모든 것이 일치한다면 최종 접근 권한 부여의 암호인 'Access Token'을 발급한다.
 
 
-
+cf. https://baked-corn.tistory.com/29
